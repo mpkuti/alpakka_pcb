@@ -1,8 +1,8 @@
 *.kicad_prl
 *.bak
-*backups/
+*backup*/
 temp/
-order/
+order*/
 symbols/step/*.step
 .vscode
 _autosave*

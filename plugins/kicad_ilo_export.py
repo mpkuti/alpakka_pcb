@@ -122,12 +122,12 @@ class InputLabsExportJLCPCB(InputLabsExport):
     def get_footprints(self):
         footprints = self.board.GetFootprints()
         def is_exportable(footprint):
-            if not footprint.HasProperty('LCSC'): return False
-            if footprint.GetProperty('LCSC') == '': return False
+            if not footprint.HasFieldByName('LCSC'): return False
+            if footprint.GetFieldText('LCSC') == '': return False
             # Evaluate 'Export' attribute as boolean, even though the type
             # is a string in Kicad.
             truthly = ['True', 'true', 'TRUE', 'Yes', 'yes', 'YES', '1']
-            if footprint.GetProperty('Export') not in truthly: return False
+            if footprint.GetFieldText('Export') not in truthly: return False
             return True
         return filter(is_exportable, footprints)
 
@@ -154,15 +154,15 @@ class InputLabsExportJLCPCB(InputLabsExport):
         writer.writeheader()
         footprints = sorted(
             self.get_footprints(),
-            key=lambda x: x.GetProperty('LCSC')
+            key=lambda x: x.GetFieldText('LCSC')
         )
-        groups = itertools.groupby(footprints, lambda x: x.GetProperty('LCSC'))
+        groups = itertools.groupby(footprints, lambda x: x.GetFieldText('LCSC'))
         for lcsc, group in groups:
             if not lcsc: continue
             group = list(group)  # Making a reusable copy.
             references = [x.GetReference() for x in group]
-            comment = group[0].GetPropertyNative('Group')
-            mount = group[0].GetProperty('Mount')
+            comment = group[0].GetFieldText('Group')
+            mount = group[0].GetFieldText('Mount')
             writer.writerow({
                 'Comment': comment,
                 'Designator': ','.join(sorted(references)),
