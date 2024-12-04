@@ -9879,7 +9879,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Raspberry Pi Pico 2"
 			(at 46.99 48.26 0)
 			(effects
 				(font
@@ -9916,6 +9916,33 @@
 			)
 		)
 		(property "Export" ""
+			(at 46.99 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Raspberry Pi"
+			(at 46.99 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SC1631"
+			(at 46.99 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "2648-SC1631CT-ND"
 			(at 46.99 48.26 0)
 			(effects
 				(font
@@ -10090,7 +10117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Side Actuated Through Hole, Right Angle"
 			(at 90.17 27.94 0)
 			(effects
 				(font
@@ -10127,6 +10154,33 @@
 			)
 		)
 		(property "Export" ""
+			(at 90.17 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKHHLNA010-ND"
+			(at 90.17 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 90.17 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKHHLNA010"
 			(at 90.17 27.94 0)
 			(effects
 				(font
@@ -10311,7 +10365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Side Actuated Through Hole, Right Angle"
 			(at 167.64 27.94 0)
 			(effects
 				(font
@@ -10348,6 +10402,33 @@
 			)
 		)
 		(property "Export" ""
+			(at 167.64 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKHHLNA010-ND"
+			(at 167.64 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 167.64 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKHHLNA010"
 			(at 167.64 27.94 0)
 			(effects
 				(font
@@ -10518,7 +10599,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 90.17 43.18 0)
 			(effects
 				(font
@@ -10555,6 +10636,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 90.17 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKPMAME010CT-ND"
+			(at 90.17 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 90.17 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKPMAME010"
 			(at 90.17 43.18 0)
 			(effects
 				(font
@@ -10621,7 +10729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 90.17 46.99 0)
 			(effects
 				(font
@@ -10658,6 +10766,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 90.17 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKPMAME010CT-ND"
+			(at 90.17 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 90.17 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKPMAME010"
 			(at 90.17 46.99 0)
 			(effects
 				(font
@@ -10724,7 +10859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 90.17 50.8 0)
 			(effects
 				(font
@@ -10761,6 +10896,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 90.17 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKPMAME010CT-ND"
+			(at 90.17 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 90.17 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKPMAME010"
 			(at 90.17 50.8 0)
 			(effects
 				(font
@@ -10827,7 +10989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 90.17 54.61 0)
 			(effects
 				(font
@@ -10864,6 +11026,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 90.17 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKPMAME010CT-ND"
+			(at 90.17 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 90.17 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKPMAME010"
 			(at 90.17 54.61 0)
 			(effects
 				(font
@@ -10930,7 +11119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 167.64 43.18 0)
 			(effects
 				(font
@@ -10967,6 +11156,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 167.64 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKPMAME010CT-ND"
+			(at 167.64 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 167.64 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKPMAME010"
 			(at 167.64 43.18 0)
 			(effects
 				(font
@@ -11033,7 +11249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 167.64 46.99 0)
 			(effects
 				(font
@@ -11070,6 +11286,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 167.64 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKPMAME010CT-ND"
+			(at 167.64 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 167.64 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKPMAME010"
 			(at 167.64 46.99 0)
 			(effects
 				(font
@@ -11136,7 +11379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 167.64 54.61 0)
 			(effects
 				(font
@@ -11173,6 +11416,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 167.64 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKPMAME010CT-ND"
+			(at 167.64 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 167.64 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKPMAME010"
 			(at 167.64 54.61 0)
 			(effects
 				(font
@@ -11239,7 +11509,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 167.64 50.8 0)
 			(effects
 				(font
@@ -11276,6 +11546,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 167.64 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKPMAME010CT-ND"
+			(at 167.64 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 167.64 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKPMAME010"
 			(at 167.64 50.8 0)
 			(effects
 				(font
@@ -11550,7 +11847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 128.27 46.99 0)
 			(effects
 				(font
@@ -11587,6 +11884,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 128.27 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKPMAME010CT-ND"
+			(at 128.27 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 128.27 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKPMAME010"
 			(at 128.27 46.99 0)
 			(effects
 				(font
@@ -11653,7 +11977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 128.27 54.61 0)
 			(effects
 				(font
@@ -11690,6 +12014,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 128.27 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKPMAME010CT-ND"
+			(at 128.27 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 128.27 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKPMAME010"
 			(at 128.27 54.61 0)
 			(effects
 				(font
@@ -11756,7 +12107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 128.27 50.8 0)
 			(effects
 				(font
@@ -11793,6 +12144,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 128.27 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKPMAME010CT-ND"
+			(at 128.27 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 128.27 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKPMAME010"
 			(at 128.27 50.8 0)
 			(effects
 				(font
@@ -11859,7 +12237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 128.27 58.42 0)
 			(effects
 				(font
@@ -11896,6 +12274,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 128.27 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKPMAME010CT-ND"
+			(at 128.27 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 128.27 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKPMAME010"
 			(at 128.27 58.42 0)
 			(effects
 				(font
@@ -11962,7 +12367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 90.17 31.75 0)
 			(effects
 				(font
@@ -11999,6 +12404,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 90.17 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKQGAFE010CT-ND"
+			(at 90.17 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 90.17 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKQGAFE010"
 			(at 90.17 31.75 0)
 			(effects
 				(font
@@ -12065,7 +12497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 90.17 35.56 0)
 			(effects
 				(font
@@ -12102,6 +12534,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 90.17 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKQGAFE010CT-ND"
+			(at 90.17 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 90.17 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKQGAFE010"
 			(at 90.17 35.56 0)
 			(effects
 				(font
@@ -12168,7 +12627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 167.64 31.75 0)
 			(effects
 				(font
@@ -12205,6 +12664,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 167.64 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKQGAFE010CT-ND"
+			(at 167.64 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 167.64 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKQGAFE010"
 			(at 167.64 31.75 0)
 			(effects
 				(font
@@ -12271,7 +12757,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 167.64 35.56 0)
 			(effects
 				(font
@@ -12308,6 +12794,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 167.64 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKQGAFE010CT-ND"
+			(at 167.64 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 167.64 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKQGAFE010"
 			(at 167.64 35.56 0)
 			(effects
 				(font
@@ -12374,7 +12887,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 128.27 62.23 0)
 			(effects
 				(font
@@ -12411,6 +12924,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 128.27 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "4809-SKPMAME010CT-ND"
+			(at 128.27 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Alps Alpine"
+			(at 128.27 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SKPMAME010"
 			(at 128.27 62.23 0)
 			(effects
 				(font
@@ -14073,7 +14613,7 @@
 				)
 			)
 		)
-		(property "Value" "NXP_PCAL6416A"
+		(property "Value" "PCAL6416A"
 			(at 46.99 121.92 0)
 			(effects
 				(font
@@ -14090,7 +14630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/PCAL6416A.pdf"
 			(at 46.99 124.46 0)
 			(effects
 				(font
@@ -14099,7 +14639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "I/O Expander 16 I2C, SMBus 400 kHz 24-HWQFN (4x4)"
 			(at 46.99 133.35 0)
 			(effects
 				(font
@@ -14136,6 +14676,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 46.99 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "568-9946-1-ND"
+			(at 46.99 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "NXP USA Inc."
+			(at 46.99 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "PCAL6416AHF,128"
 			(at 46.99 133.35 0)
 			(effects
 				(font
@@ -14242,7 +14809,7 @@
 				)
 			)
 		)
-		(property "Value" "NXP_PCAL6416A"
+		(property "Value" "PCAL6416A"
 			(at 46.99 85.09 0)
 			(effects
 				(font
@@ -14259,7 +14826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/PCAL6416A.pdf"
 			(at 46.99 87.63 0)
 			(effects
 				(font
@@ -14268,7 +14835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "I/O Expander 16 I2C, SMBus 400 kHz 24-HWQFN (4x4)"
 			(at 46.99 96.52 0)
 			(effects
 				(font
@@ -14305,6 +14872,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 46.99 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "NXP USA Inc."
+			(at 46.99 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "PCAL6416AHF,128"
+			(at 46.99 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "568-9946-1-ND"
 			(at 46.99 96.52 0)
 			(effects
 				(font
