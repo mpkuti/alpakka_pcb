@@ -14155,7 +14155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0603_d"
+		(property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 125.73 80.01 0)
 			(effects
 				(font
@@ -14173,7 +14173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "White LED Indication - Discrete 2.8V 0603 (1608 Metric)"
 			(at 125.73 80.01 0)
 			(effects
 				(font
@@ -14210,6 +14210,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 125.73 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "1830-1063-1-ND"
+			(at 125.73 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Inolux"
+			(at 125.73 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "IN-S63AT5UW"
 			(at 125.73 80.01 0)
 			(effects
 				(font
@@ -14261,7 +14288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0603_d"
+		(property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 125.73 83.82 0)
 			(effects
 				(font
@@ -14279,7 +14306,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "White LED Indication - Discrete 2.8V 0603 (1608 Metric)"
 			(at 125.73 83.82 0)
 			(effects
 				(font
@@ -14316,6 +14343,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 125.73 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "1830-1063-1-ND"
+			(at 125.73 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Inolux"
+			(at 125.73 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "IN-S63AT5UW"
 			(at 125.73 83.82 0)
 			(effects
 				(font
@@ -14367,7 +14421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0603_d"
+		(property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 125.73 76.2 0)
 			(effects
 				(font
@@ -14385,7 +14439,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "White LED Indication - Discrete 2.8V 0603 (1608 Metric)"
 			(at 125.73 76.2 0)
 			(effects
 				(font
@@ -14422,6 +14476,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 125.73 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "1830-1063-1-ND"
+			(at 125.73 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Inolux"
+			(at 125.73 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "IN-S63AT5UW"
 			(at 125.73 76.2 0)
 			(effects
 				(font
@@ -14473,7 +14554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0603_d"
+		(property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 125.73 72.39 0)
 			(effects
 				(font
@@ -14491,7 +14572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "White LED Indication - Discrete 2.8V 0603 (1608 Metric)"
 			(at 125.73 72.39 0)
 			(effects
 				(font
@@ -14528,6 +14609,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 125.73 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "1830-1063-1-ND"
+			(at 125.73 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Inolux"
+			(at 125.73 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "IN-S63AT5UW"
 			(at 125.73 72.39 0)
 			(effects
 				(font
