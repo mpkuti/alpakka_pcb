@@ -11420,7 +11420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 127 99.568 90)
 			(effects
 				(font
@@ -11429,7 +11429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 127 97.79 0)
 			(effects
 				(font
@@ -11438,7 +11438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "510 kOhms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 127 97.79 0)
 			(effects
 				(font
@@ -11475,6 +11475,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 127 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "P510KLCT-ND"
+			(at 127 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Panasonic Electronic Components"
+			(at 127 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "ERJ-2RKF5103X"
 			(at 127 97.79 0)
 			(effects
 				(font
@@ -12564,7 +12591,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 88.9 93.0148 0)
 			(effects
 				(font
@@ -12573,7 +12600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05B104KO5NNNC.pdf"
 			(at 85.09 93.98 0)
 			(effects
 				(font
@@ -12582,7 +12609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 85.09 93.98 0)
 			(effects
 				(font
@@ -12619,6 +12646,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 85.09 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "1276-1001-1-ND"
+			(at 85.09 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Samsung Electro-Mechanics"
+			(at 85.09 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "CL05B104KO5NNNC"
 			(at 85.09 93.98 0)
 			(effects
 				(font
@@ -12668,7 +12722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 88.9 87.9348 0)
 			(effects
 				(font
@@ -12677,7 +12731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05B104KO5NNNC.pdf"
 			(at 85.09 88.9 0)
 			(effects
 				(font
@@ -12686,7 +12740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 85.09 88.9 0)
 			(effects
 				(font
@@ -12723,6 +12777,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 85.09 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "1276-1001-1-ND"
+			(at 85.09 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Samsung Electro-Mechanics"
+			(at 85.09 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "CL05B104KO5NNNC"
 			(at 85.09 88.9 0)
 			(effects
 				(font
@@ -14770,7 +14851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0603"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 133.35 82.042 90)
 			(effects
 				(font
@@ -14779,7 +14860,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 133.35 83.82 0)
 			(effects
 				(font
@@ -14788,7 +14869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "20 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 			(at 133.35 83.82 0)
 			(effects
 				(font
@@ -14825,6 +14906,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 133.35 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "P20.0HCT-ND"
+			(at 133.35 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Panasonic Electronic Components"
+			(at 133.35 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "ERJ-3EKF20R0V"
 			(at 133.35 83.82 0)
 			(effects
 				(font
@@ -14874,7 +14982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0603"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 133.35 78.232 90)
 			(effects
 				(font
@@ -14883,7 +14991,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 133.35 80.01 0)
 			(effects
 				(font
@@ -14892,7 +15000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "20 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 			(at 133.35 80.01 0)
 			(effects
 				(font
@@ -14929,6 +15037,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 133.35 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "P20.0HCT-ND"
+			(at 133.35 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Panasonic Electronic Components"
+			(at 133.35 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "ERJ-3EKF20R0V"
 			(at 133.35 80.01 0)
 			(effects
 				(font
@@ -14978,7 +15113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0603"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 133.35 74.422 90)
 			(effects
 				(font
@@ -14987,7 +15122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 133.35 76.2 0)
 			(effects
 				(font
@@ -14996,7 +15131,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "20 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 			(at 133.35 76.2 0)
 			(effects
 				(font
@@ -15033,6 +15168,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 133.35 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "P20.0HCT-ND"
+			(at 133.35 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Panasonic Electronic Components"
+			(at 133.35 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "ERJ-3EKF20R0V"
 			(at 133.35 76.2 0)
 			(effects
 				(font
@@ -15082,7 +15244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0603"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 133.35 70.612 90)
 			(effects
 				(font
@@ -15091,7 +15253,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 133.35 72.39 0)
 			(effects
 				(font
@@ -15100,7 +15262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "20 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 			(at 133.35 72.39 0)
 			(effects
 				(font
@@ -15137,6 +15299,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 133.35 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "P20.0HCT-ND"
+			(at 133.35 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Panasonic Electronic Components"
+			(at 133.35 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "ERJ-3EKF20R0V"
 			(at 133.35 72.39 0)
 			(effects
 				(font
@@ -15352,7 +15541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 150.1648 139.7 0)
 			(effects
 				(font
@@ -15361,7 +15550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05B104KO5NNNC.pdf"
 			(at 151.13 143.51 0)
 			(effects
 				(font
@@ -15370,7 +15559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 151.13 143.51 0)
 			(effects
 				(font
@@ -15407,6 +15596,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 151.13 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "1276-1001-1-ND"
+			(at 151.13 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Samsung Electro-Mechanics"
+			(at 151.13 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "CL05B104KO5NNNC"
 			(at 151.13 143.51 0)
 			(effects
 				(font
@@ -15456,7 +15672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 173.0248 139.7 0)
 			(effects
 				(font
@@ -15465,7 +15681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05B104KO5NNNC.pdf"
 			(at 173.99 143.51 0)
 			(effects
 				(font
@@ -15474,7 +15690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 173.99 143.51 0)
 			(effects
 				(font
@@ -15511,6 +15727,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 173.99 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "1276-1001-1-ND"
+			(at 173.99 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Samsung Electro-Mechanics"
+			(at 173.99 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "CL05B104KO5NNNC"
 			(at 173.99 143.51 0)
 			(effects
 				(font
@@ -16235,7 +16478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 105.7148 139.7 0)
 			(effects
 				(font
@@ -16244,7 +16487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05B104KO5NNNC.pdf"
 			(at 106.68 143.51 0)
 			(effects
 				(font
@@ -16253,7 +16496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 106.68 143.51 0)
 			(effects
 				(font
@@ -16290,6 +16533,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 106.68 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "1276-1001-1-ND"
+			(at 106.68 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Samsung Electro-Mechanics"
+			(at 106.68 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "CL05B104KO5NNNC"
 			(at 106.68 143.51 0)
 			(effects
 				(font
@@ -16522,7 +16792,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
 			(at 129.54 130.81 0)
 			(effects
 				(font
@@ -16541,6 +16811,33 @@
 			)
 		)
 		(property "Description" "Net tie, 2 pins"
+			(at 129.54 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" ""
+			(at 129.54 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
+			(at 129.54 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 129.54 130.81 0)
 			(effects
 				(font
@@ -18576,7 +18873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ILO_fp:0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 82.8548 139.7 0)
 			(effects
 				(font
@@ -18585,7 +18882,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05B104KO5NNNC.pdf"
 			(at 83.82 143.51 0)
 			(effects
 				(font
@@ -18594,7 +18891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 83.82 143.51 0)
 			(effects
 				(font
@@ -18631,6 +18928,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 83.82 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "1276-1001-1-ND"
+			(at 83.82 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Samsung Electro-Mechanics"
+			(at 83.82 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "CL05B104KO5NNNC"
 			(at 83.82 143.51 0)
 			(effects
 				(font
