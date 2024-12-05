@@ -614,7 +614,7 @@
           "group_by": false,
           "label": "mouser#",
           "name": "mouser#",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",

@@ -14164,7 +14164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Top%20View/IN-S63AT%20Series_V1.4.pdf"
 			(at 125.73 80.01 0)
 			(effects
 				(font
@@ -14297,7 +14297,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Top%20View/IN-S63AT%20Series_V1.4.pdf"
 			(at 125.73 83.82 0)
 			(effects
 				(font
@@ -14430,7 +14430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Top%20View/IN-S63AT%20Series_V1.4.pdf"
 			(at 125.73 76.2 0)
 			(effects
 				(font
@@ -14563,7 +14563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Top%20View/IN-S63AT%20Series_V1.4.pdf"
 			(at 125.73 72.39 0)
 			(effects
 				(font
@@ -14693,7 +14693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://tech.alpsalpine.com/e/products/detail/RKJXV122400R/"
 			(at 90.17 69.85 0)
 			(effects
 				(font
@@ -14867,7 +14867,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "JST Automotive Connectors"
 			(at 132.08 31.75 0)
 			(effects
 				(font
@@ -14904,6 +14904,33 @@
 			)
 		)
 		(property "Export" "yes"
+			(at 132.08 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "JST Commercial"
+			(at 132.08 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" " S4B-PH-SM4-K-TB(LF)(SN)"
+			(at 132.08 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" "306-S4BPHSM4KTBLFSN"
 			(at 132.08 31.75 0)
 			(effects
 				(font
