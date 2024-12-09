@@ -4,20 +4,19 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -2.8 0)
+		(at 0 -2.25 0)
 		(layer "F.SilkS")
 		(uuid "d0cfc8a7-9f47-4839-9b82-147b39f6aed2")
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.16)
+				(thickness 0.15)
 			)
 		)
 	)
-	(property "Value" "LGA14"
-		(at 0 -4.4 0)
+	(property "Value" "${REFERENCE}"
+		(at 0 0 0)
 		(layer "F.Fab")
-		(hide yes)
 		(uuid "a040cf79-8ea3-4781-b7ad-8532eb03c607")
 		(effects
 			(font
@@ -35,6 +34,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -47,6 +47,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -59,20 +60,11 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
 	(attr smd)
-	(fp_line
-		(start -1.7 -1.45)
-		(end -1.7 -1.15)
-		(stroke
-			(width 0.16)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "486dd186-d2b1-45fc-aac5-379996b36c68")
-	)
 	(fp_line
 		(start -1.7 -1.45)
 		(end -0.9 -1.45)
@@ -143,16 +135,29 @@
 		(layer "F.SilkS")
 		(uuid "aaf92102-1c7b-4360-86e4-3de6b4c4aa5f")
 	)
-	(fp_circle
-		(center -2.4 -0.75)
-		(end -2.2 -0.75)
+	(fp_poly
+		(pts
+			(xy -1.4 -1.05) (xy -1.7 -1.45) (xy -1.1 -1.45)
+		)
 		(stroke
 			(width 0.16)
 			(type solid)
 		)
-		(fill none)
+		(fill solid)
 		(layer "F.SilkS")
-		(uuid "d8283927-c6a5-4033-91cc-9d1954a62249")
+		(uuid "5e85fcab-b8bf-4153-bd08-14a5d936e687")
+	)
+	(fp_poly
+		(pts
+			(xy -1.7 1.45) (xy 1.7 1.45) (xy 1.7 -1.45) (xy -0.7 -1.45) (xy -1.7 -0.45)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "46a196d9-5d24-4b03-a2ff-56022d18e264")
 	)
 	(pad "1" smd rect
 		(at -1.398 -0.75)
